@@ -1,0 +1,9 @@
+Python             PowerShell
+
+cvss               $cvss
+>=                 -ge
+<=                 -le
+==                 -eq
+!=                 -ne
+and                -and
+or                 -or
